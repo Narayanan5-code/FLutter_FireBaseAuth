@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "580265158756",
+    "firebase_url": "https://regis-cce9d.firebaseio.com",
+    "project_id": "regis-cce9d",
+    "storage_bucket": "regis-cce9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580265158756:android:71bad23e5eadf246e35771",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fireauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580265158756-mhkrehpgq0n1rtij2346ma4jva7cb65e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEd5AcA7JTLWdmWvNxX5cFTOhIr0ByG3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580265158756-mhkrehpgq0n1rtij2346ma4jva7cb65e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
